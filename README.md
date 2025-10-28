@@ -2,10 +2,10 @@
 <div>    
   <h1 align="center"?     
     <a href="https://git.io/typing-svg">   
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi+There!;+I'm+Manasi+Patil!" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Manasi+Patil!" />
     </a>   
    </h1>                                  
-<p align="center">🚀 CS Master's Student | 💻 Software Developer | 🎨 UI/UX Enthusiast | 🔍 Lifelong Learner</p>                         
+<p align="center"> CS Master's Student at ASU | Software Developer</p>                         
 </div>           
    
 ---   
@@ -14,7 +14,7 @@
 
 - 👩‍💻 Passionate about building full-stack web applications with clean, scalable code and intuitive UI.
 - 🧠 Exploring the intersection of **Cloud, AI, and UI/UX** to design impactful digital solutions.
-- 🔭 Currently building: a **Personal Health Hub App** using React, FastAPI, PostgreSQL.
+- 🔭 Currently building: an **App** using React, FastAPI, PostgreSQL.
 - 🌱 Learning: Microservices, CI/CD pipelines, and AWS Serverless Framework (Lambda, Step Functions).
 - ✨ Fun Fact: I dance to debug 🕺 
  
@@ -92,7 +92,7 @@
 
 | Domain | Topics |
 |--------|--------|
-| **Backend Engineering** | Flask, FastAPI, Python Optimization, AWS Step Functions |
+| **Backendwww.linkedin.com/in/manasipatil2024** | Flask, FastAPI, Python Optimization, AWS Step Functions |
 | **Frontend** | Advanced TypeScript, UI Animations, Accessibility |
 | **Design Systems** | Design Tokens, Component Libraries |
 
