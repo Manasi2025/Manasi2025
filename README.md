@@ -1,150 +1,123 @@
-# Profile
-<div>    
-  <h1 align="center"?     
-    <a href="https://git.io/typing-svg">   
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Manasi+Patil!" />
-    </a>   
-   </h1>                                  
-<p align="center"> CS Master's Student at ASU | Software Developer</p>                         
-</div>           
-   
----   
-   
-### 🌟 About Me 
-
-- 👩‍💻 Passionate about building full-stack web applications with clean, scalable code and intuitive UI.
-- 🧠 Exploring the intersection of **Cloud, AI, and UI/UX** to design impactful digital solutions.
-- 🔭 Currently building: an **App** using React, FastAPI, PostgreSQL.
-- 🌱 Learning: Microservices, CI/CD pipelines, and AWS Serverless Framework (Lambda, Step Functions).
-- ✨ Fun Fact: I dance to debug 🕺 
- 
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  </a>
-  <!-- Flask (Custom hosted icon) -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <!-- GCP -->
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+<!-- HERO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hey,+I'm+Manasi+Patil!+👋" />
 </p>
 
-### 🧠 What I’m Learning
+<p align="center">
+  <b> MCS Student • Software Developer </b><br/>
+  I am pursuing my master's in Computer Science at Arizona State University (ASU).
+</p>
 
-| Domain | Topics |
-|--------|--------|
-| **Backend** | Flask, FastAPI, Python Optimization, AWS Step Functions |
-| **Frontend** | Advanced TypeScript, UI Animations, Accessibility |
-| **Design Systems** | Design Tokens, Component Libraries |
+<p align="center">
+  <a href="https://linkedin.com/in/manasipatil2024">LinkedIn</a> •
+  <a href="https://manasipatil.netlify.app">Portfolio</a>
+</p>
 
 ---
 
-  <h3 align="center"> Helpful YouTube Channels 🎥</h3>
-  
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - Web development tutorials
-- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - Front-end and back-end tutorials
-- [Codecademy](https://www.youtube.com/user/Codecademy) - Programming language tutorials
-- [Academind](https://www.youtube.com/c/Academind) - Web development and frameworks
-- [Google Developers](https://www.youtube.com/user/GoogleDevelopers) - Google's tech tutorials
-- [Computerphile](https://www.youtube.com/user/Computerphile) - Computer science topics
-- [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw) - Software engineering career insights
+## 🧭 Who I Am
 
-Explore these channels for valuable learning resources! 
+> I’m highly motivated .NET Developer with 3+ years of experience in the full software development lifecycle, specializing in C#, ASP.NET Core, and robust database optimization. 
+> I am currently pursuing Master's in Computer Science, deepening expertise in emerging fields like Data Mining, AI, and Distributed Systems.
 
-"🚀 I’m passionate about continuous learning and staying updated with the latest technologies."
+- 🧠 Expertise in .NET backend services and Distributed Systems
+- ⚙️ Skilled in Cloud Infra (AWS), Docker, and DevOps automation
+- 🚀 Passionate about Signal Processing and Gesture Control in Android
+- 💃 Debugging sometimes involves dancing
+- 🎓 Microsoft Certified: Power Platform Fundamentals (PL-900)
 
-  <h3 align="center"> Helpful Blogs 📝 </h3> 
+---
 
-- [CSS-Tricks](https://css-tricks.com/) - CSS tutorials and tricks
-- [Smashing Magazine](https://www.smashingmagazine.com/) - Web design and development articles
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) - Web technology documentation
-- [Stack Overflow Blog](https://stackoverflow.blog/) - Programming and tech insights
-- [Medium](https://medium.com/) - Various tech blogs and articles
-- [Codecademy Blog](https://www.codecademy.com/blog) - Programming language and development topics
-- [Towards Data Science](https://towardsdatascience.com/) - Data science and machine learning tutorials
-- [GitHub Blog](https://github.blog/) - GitHub updates and best practices
+## 🧩 What I Build
 
-Explore these blogs for valuable insights and tutorials!
+<table>
+<tr>
+<td width="50%">
 
+### 🏗️ Backend & Systems
+- Distributed Middleware
+- Scalable .NET APIs
+- Microservices & Dockerization
+- System Design & Scaling
 
-  <h3 align="center">  Important News Sources 📰</h3> 
-  
-- [TechCrunch](https://techcrunch.com/) - Tech news and startups
-- [The Verge](https://www.theverge.com/) - Technology, science, and culture
-- [Ars Technica](https://arstechnica.com/) - Technology news and analysis
-- [Wired](https://www.wired.com/) - Technology, business, and culture
-- [BBC Technology](https://www.bbc.com/news/technology) - Global technology news
-- [Mashable](https://mashable.com/) - Tech, social media, and entertainment
-- [Hacker News](https://news.ycombinator.com/) - Computer science and entrepreneurship discussions
-- [GitHub Blog](https://github.blog/) - GitHub updates and developer news
+</td>
+<td width="50%">
 
-Stay updated with the latest tech news and trends from these sources!
+### 🤖 Intelligence 
+- Bayesian & k-Means ML Models  
+- Real-time Sensor Data Processing  
+- Android IoT Applications 
+- Automated Power Platform Workflows
 
-"🚀 Embrace the journey of learning—it's not just about acquiring new skills, but unlocking the potential to turn dreams into reality! 🌟"
+</td>
+</tr>
+</table>
 
-Feel free to explore my repositories and connect with me! Let's build something amazing together. 😊🚀
-<p align="left">
-<!-- corrected LinkedIn link: uses https and safe target/rel -->
-<a href="https://www.linkedin.com/in/manasipatil2024" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+---
+
+## 🛠️ Tech Stack (My Daily Tools)
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+</p>
+
+---
+
+## 🚀 Selected Work
+
+> Things I’ve built that I’m proud of:
+
+- 🤖 **AI Portfolio Chatbot** — RAG + embeddings + streaming responses  
+- 📱 **SmartHome Gesture Control** — LLM-based resume vs JD analysis  
+- ⚙️ **Distributed ML Engine** — Real-time sign language detection (TensorFlow)
+
+---
+
+## 🧠 What I’m Currently Leveling Up
+
+| Area | Focus |
+|------|--------|
+| Distributed Systems |	Concurrency, scalability, resilience |
+| Machine Learning |	Predictive modeling, Bayesian inference |
+| DevOps |	CI/CD pipelines, Docker production patterns |
+| AI Systems | Agents, RAG, orchestration |
+| Frontend | UX, performance, TypeScript |
+| Infra | Docker, AWS, production patterns |
+
+---
+
+## 📊 Code Footprint
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi2025&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📚 Inputs That Shape My Thinking
+
+**Read:** MDN, GitHub Blog, Smashing Magazine, Towards Data Science  
+**Watch:** Computerphile, ThePrimeagen, Traversy Media, Academind  
+**Follow:** Hacker News, TechCrunch, Ars Technica  
+
+---
+
+## 🤝 Let’s Build Something Real
+
+<p align="center">
+<a href="https://linkedin.com/in/manasipatil2024">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="40"/>
 </a>
+</p>
+
+<p align="center">
+<b>⭐ I like building real products, not just demos.</b><br/>
+If you’re working on something ambitious, let’s talk.
 </p>
