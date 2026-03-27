@@ -42,11 +42,11 @@
 </td>
 <td width="50%">
 
-### 🤖 Intelligence 
-- Bayesian & k-Means ML Models  
-- Real-time Sensor Data Processing  
-- Android IoT Applications 
-- Automated Power Platform Workflows
+### 🤖 Intelligence & Systems 
+- Training Predictive AI/ML & Data Mining Models  
+- Blockchain-based Integrity Ledgers  
+- Cryptography & Secure Data Transmission 
+- Structuring Logic with Knowledge Representation & Reasoning (KRR)
 
 </td>
 </tr>
