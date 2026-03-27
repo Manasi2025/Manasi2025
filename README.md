@@ -18,12 +18,11 @@
 ## 🧭 Who I Am
 
 > I’m highly motivated .NET Developer with 3+ years of experience in the full software development lifecycle, specializing in C#, ASP.NET Core, and robust database optimization. 
-> I am currently pursuing Master's in Computer Science, deepening expertise in emerging fields like Data Mining, AI, and Distributed Systems.
+> I am currently pursuing Master's in Computer Science, deepening expertise in emerging fields like Data Mining, AI, Blockchain, and Distributed Systems.
 
 - 🧠 Expertise in .NET backend services and Distributed Systems
 - ⚙️ Skilled in Cloud Infra (AWS), Docker, and DevOps automation
 - 🚀 Passionate about Signal Processing and Gesture Control in Android
-- 💃 Debugging sometimes involves dancing
 - 🎓 Microsoft Certified: Power Platform Fundamentals (PL-900)
 
 ---
