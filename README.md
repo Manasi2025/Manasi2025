@@ -119,6 +119,6 @@
 </p>
 
 <p align="center">
-<b>⭐ I like building real products, not just demos.</b><br/>
-If you’re working on something ambitious, let’s talk.
+<b>⭐ Translating complex research into scalable, intelligent systems.</b><br/>
+I'm currently exploring new opportunities in backend engineering and AI/ML. Let's connect!
 </p>
