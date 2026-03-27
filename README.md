@@ -104,9 +104,9 @@
 
 ## 📚 Inputs That Shape My Thinking
 
-**Read:** MDN, GitHub Blog, Smashing Magazine, Towards Data Science  
-**Watch:** Computerphile, ThePrimeagen, Traversy Media, Academind  
-**Follow:** Hacker News, TechCrunch, Ars Technica  
+**Read:** arXiv (AI/Crypto papers), Microsoft .NET Blog, Towards Data Science, ByteByteGo
+**Watch:** Nick Chapsas (C#), Andrej Karpathy (AI/ML), Computerphile, ThePrimeagen 
+**Follow:** Hacker News, KDnuggets, IEEE Spectrum
 
 ---
 
