@@ -96,7 +96,7 @@
 > A real-time snapshot of the languages I use to build distributed backends, train ML models, and experiment with Web3.
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Manasi2025&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+  <!---<img src="https://github-readme-stats-fast.vercel.app/api?username=Manasi2025&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />--->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manasi2025&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html" height="165" alt="Top Languages" />
 </p>
 
