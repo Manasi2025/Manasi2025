@@ -22,7 +22,7 @@
 
 - 🧠 Expertise in .NET backend services and Distributed Systems
 - ⚙️ Skilled in Cloud Infra (AWS), Docker, and DevOps automation
-- 🚀 Passionate about Signal Processing and Gesture Control in Android
+- 🚀 Passionate about exploring and building with emerging technologies, like AI/ML and Blockchain
 - 🎓 Microsoft Certified: Power Platform Fundamentals (PL-900)
 
 ---
