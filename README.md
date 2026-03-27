@@ -104,9 +104,9 @@
 
 ## 📚 Inputs That Shape My Thinking
 
-**Read:** arXiv (AI/Crypto papers), Microsoft .NET Blog, Towards Data Science, ByteByteGo
-**Watch:** Nick Chapsas (C#), Andrej Karpathy (AI/ML), Computerphile, ThePrimeagen 
-**Follow:** Hacker News, KDnuggets, IEEE Spectrum
+**Read:** arXiv (AI/Crypto papers), Microsoft .NET Blog, Towards Data Science, ByteByteGo  
+**Watch:** Nick Chapsas (C#), Andrej Karpathy (AI/ML), Computerphile, ThePrimeagen  
+**Follow:** Hacker News, KDnuggets, IEEE Spectrum  
 
 ---
 
