@@ -71,11 +71,12 @@
 
 ## 🚀 Selected Work
 
-> Things I’ve built that I’m proud of:
+> Things I’ve built and systems I've scaled:
 
-- 🤖 **AI Portfolio Chatbot** — RAG + embeddings + streaming responses  
-- 📱 **SmartHome Gesture Control** — LLM-based resume vs JD analysis  
-- ⚙️ **Distributed ML Engine** — Real-time sign language detection (TensorFlow)
+- ⚙️ **Automated DevOps & Infrastructure** — CI/CD pipelines, Docker production patterns, and scalable .NET deployments
+- 🔗 **Pharma Integrity Ledger** — Blockchain-based tracking for pharmaceutical safety and data integrity 
+- 🤖 **AI Portfolio Chatbot** — RAG + embeddings + streaming responses 
+- 📱 **Distributed ML Engine** — Real-time sensor data processing & predictive modeling
 
 ---
 
