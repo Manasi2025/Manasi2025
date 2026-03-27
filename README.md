@@ -84,12 +84,10 @@
 
 | Area | Focus |
 |------|--------|
-| Distributed Systems |	Concurrency, scalability, resilience |
-| Machine Learning |	Predictive modeling, Bayesian inference |
-| DevOps |	CI/CD pipelines, Docker production patterns |
-| AI Systems | Agents, RAG, orchestration |
+| Distributed Systems | Concurrency, scalability, resilience |
+| Advanced AI/ML | Data Mining, Bayesian inference, KRR |
+| Emerging Tech | Applied Cryptography, Web3/Blockchain |
 | Frontend | UX, performance, TypeScript |
-| Infra | Docker, AWS, production patterns |
 
 ---
 
