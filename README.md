@@ -120,5 +120,5 @@
 
 <p align="center">
 <b>⭐ Translating complex research into scalable, intelligent systems.</b><br/>
-I'm currently exploring new opportunities in backend engineering and AI/ML. Let's connect!
+I'm currently exploring new opportunities in software engineering and AI/ML. Let's connect!
 </p>
