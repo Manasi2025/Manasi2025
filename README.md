@@ -5,7 +5,7 @@
 
 <p align="center">
   <b> MCS Student • Software Developer </b><br/>
-  I am pursuing my master's in Computer Science at Arizona State University (ASU).
+  I am pursuing Master's in Computer Science at Arizona State University (ASU).
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 🧭 Who I Am
 
-> I’m highly motivated .NET Developer with 3+ years of experience in the full software development lifecycle, specializing in C#, ASP.NET Core, and robust database optimization. 
+> I’m highly motivated Software Developer with 3+ years of experience in the full software development lifecycle, specializing in C#, ASP.NET Core, and robust database optimization. 
 > I am currently pursuing Master's in Computer Science, deepening expertise in emerging fields like Data Mining, AI, Blockchain, and Distributed Systems.
 
 - 🧠 Expertise in .NET backend services and Distributed Systems
