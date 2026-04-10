@@ -74,7 +74,7 @@
 > Things I’ve built and systems I've scaled:
 
 - ⚙️ **Automated DevOps & Infrastructure** — CI/CD pipelines, Docker production patterns, and scalable .NET deployments
-- 🔗 **Pharma Integrity Ledger** — Blockchain-based tracking for pharmaceutical safety and data integrity 
+- 🔗 **Food Supply Chain Ledger** — Blockchain-based tracking for food supply chain and data integrity 
 - 🤖 **AI Portfolio Chatbot** — RAG + embeddings + streaming responses 
 - 📱 **Distributed ML Engine** — Real-time sensor data processing & predictive modeling
 
@@ -119,6 +119,6 @@
 </p>
 
 <p align="center">
-<b>⭐ Translating complex research into scalable, intelligent systems.</b><br/>
+<b>Translating complex research into scalable, intelligent systems.</b><br/>
 I'm currently exploring new opportunities in software engineering and AI/ML. Let's connect!
 </p>
