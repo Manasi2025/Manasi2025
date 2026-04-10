@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hey,+I'm+Manasi+Patil!+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hey,+I'm+Manasi+Patil!" />
 </p>
 
 <p align="center">
