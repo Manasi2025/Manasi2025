@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/manasipatil2024">LinkedIn</a> •
-  <a href="https://manasipatil.netlify.app">Portfolio</a>
+  <a href="https://manasipatil-portfolio.netlify.app">Portfolio</a>
 </p>
 
 ---
